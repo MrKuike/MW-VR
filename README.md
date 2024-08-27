@@ -3,6 +3,7 @@ A test proyect on react-360
 you need node version 14.0.0
 
 nvm install 14.0.0
+
 nvm use 14.0.0
 
 then go to the folder proyect and make npm i
